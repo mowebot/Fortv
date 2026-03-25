@@ -16,37 +16,37 @@ TSN 1cc,http://cord-cutter.net:8080/live/Ss5DKE/232455/47440.ts
 57252 Discovery,http://fortv.cc:8080/b6twFE/414151/57252
 57253 CTV Sci-Fi,http://fortv.cc:8080/b6twFE/414151/57253
 57254 CTV Drama,http://fortv.cc:8080/b6twFE/414151/57254
-57256 Crime ,http://fortv.cc:8080/b6twFE/414151/57256
+57256 Crime & Investigation,http://fortv.cc:8080/b6twFE/414151/57256
 57257 CP24,http://fortv.cc:8080/b6twFE/414151/57257
 57258 CMT,http://fortv.cc:8080/b6twFE/414151/57258
 57264 A&E,http://fortv.cc:8080/b6twFE/414151/57264
 57268 FX,http://fortv.cc:8080/b6twFE/414151/57268
 57270 Makeful,http://fortv.cc:8080/b6twFE/414151/57270
 57271 Lifetime,http://fortv.cc:8080/b6twFE/414151/57271
-57272 ,http://fortv.cc:8080/b6twFE/414151/57272
+57272 History,http://fortv.cc:8080/b6twFE/414151/57272
 57273 Home Network,http://fortv.cc:8080/b6twFE/414151/57273
 57274 Slice,http://fortv.cc:8080/b6twFE/414151/57274
 57276 PBS,http://fortv.cc:8080/b6twFE/414151/57276
 57277 OWN,http://fortv.cc:8080/b6twFE/414151/57277
 57280 Nat Geo Wild,http://fortv.cc:8080/b6twFE/414151/57280
 57281 Nat Geo,http://fortv.cc:8080/b6twFE/414151/57281
-57284,http://fortv.cc:8080/b6twFE/414151/57284
+57284 W Network,http://fortv.cc:8080/b6twFE/414151/57284
 57288 TV5,http://fortv.cc:8080/b6twFE/414151/57288
 57290 TLC,http://fortv.cc:8080/b6twFE/414151/57290
 57291 TFO,http://fortv.cc:8080/b6twFE/414151/57291
-57292,http://fortv.cc:8080/b6twFE/414151/57292
+57292 TSN 1,http://fortv.cc:8080/b6twFE/414151/57292
 57295 TSN5,http://fortv.cc:8080/b6twFE/414151/57295
 57296 Sportnet,http://fortv.cc:8080/b6twFE/414151/57296
 57297 Sportnet,http://fortv.cc:8080/b6twFE/414151/57297
 57298 Sportnet,http://fortv.cc:8080/b6twFE/414151/57298
 57299 Sportnet,http://fortv.cc:8080/b6twFE/414151/57299
 57300 Sportnet,http://fortv.cc:8080/b6twFE/414151/57300
-57302,http://fortv.cc:8080/b6twFE/414151/57302
+57302 Global Toronto,http://fortv.cc:8080/b6twFE/414151/57302
 57304 CBC News Network,http://fortv.cc:8080/b6twFE/414151/57304
 57305 CBC News,http://fortv.cc:8080/b6twFE/414151/57305
 57306 CBC News Toronto,http://fortv.cc:8080/b6twFE/414151/57306
 57309,http://fortv.cc:8080/b6twFE/414151/57309
-57310,http://fortv.cc:8080/b6twFE/414151/5710
+57310,http://fortv.cc:8080/b6twFE/414151/57310
 57311,http://fortv.cc:8080/b6twFE/414151/57311
 57316 CTV2,http://fortv.cc:8080/b6twFE/414151/57316
 57322,http://fortv.cc:8080/b6twFE/414151/57322
@@ -61,8 +61,8 @@ TSN 1cc,http://cord-cutter.net:8080/live/Ss5DKE/232455/47440.ts
 57357 CP24,http://fortv.cc:8080/b6twFE/414151/57357
 57358 BNN Bloomberg,http://fortv.cc:8080/b6twFE/414151/57358
 57362 Golf Channel,http://fortv.cc:8080/b6twFE/414151/57362
-57365 Omni #,http://fortv.cc:8080/b6twFE/414151/57365
-57368,http://fortv.cc:8080/b6twFE/414151/57368
+57365 Omni 1,http://fortv.cc:8080/b6twFE/414151/57365
+57368 MTV,http://fortv.cc:8080/b6twFE/414151/57368
 57369 TVO,http://fortv.cc:8080/b6twFE/414151/57369
 57370 TSC,http://fortv.cc:8080/b6twFE/414151/57370
 57371 Treehouse,http://fortv.cc:8080/b6twFE/414151/57371
@@ -70,8 +70,8 @@ TSN 1cc,http://cord-cutter.net:8080/live/Ss5DKE/232455/47440.ts
 57373,http://fortv.cc:8080/b6twFE/414151/57373
 57376 AMC,http://fortv.cc:8080/b6twFE/414151/57376
 57377,http://fortv.cc:8080/b6twFE/414151/57377
-57379,http://fortv.cc:8080/b6twFE/414151/572379
-57380,http://fortv.cc:8080/b6twFE/414151/57380
+57379,http://fortv.cc:8080/b6twFE/414151/57379
+57380 Adult Swim,http://fortv.cc:8080/b6twFE/414151/57380
 57381 CBC,http://fortv.cc:8080/b6twFE/414151/57381
 57382 CBC,http://fortv.cc:8080/b6twFE/414151/57382
 57384 CBC,http://fortv.cc:8080/b6twFE/414151/57384
@@ -79,32 +79,32 @@ TSN 1cc,http://cord-cutter.net:8080/live/Ss5DKE/232455/47440.ts
 57387 CBC,http://fortv.cc:8080/b6twFE/414151/57387
 57391 CBC,http://fortv.cc:8080/b6twFE/414151/57391
 57393,http://fortv.cc:8080/b6twFE/414151/57393
-57394 City News UNk,http://fortv.cc:8080/b6twFE/414151/57394
+57394 CityTV Toronto,http://fortv.cc:8080/b6twFE/414151/57394
 57395 CityTV unk,http://fortv.cc:8080/b6twFE/414151/57395
-57398,http://fortv.cc:8080/b6twFE/414151/57398
+57398 CNN,http://fortv.cc:8080/b6twFE/414151/57398
 57401 CP24,http://fortv.cc:8080/b6twFE/414151/57401
 57402 Cpac,http://fortv.cc:8080/b6twFE/414151/57402
-573408 CTV Comedy Channel,http://fortv.cc:8080/b6twFE/414151/57408
+57408 CTV Comedy Channel,http://fortv.cc:8080/b6twFE/414151/57408
 57410 CTV unk,http://fortv.cc:8080/b6twFE/414151/57410
 57418 SCI,http://fortv.cc:8080/b6twFE/414151/57418
 57422 !E,http://fortv.cc:8080/b6twFE/414151/57422
-57429,http://fortv.cc:8080/b6twFE/414151/57429
+57429 FXX,http://fortv.cc:8080/b6twFE/414151/57429
 57430,http://fortv.cc:8080/b6twFE/414151/57430
 57431,http://fortv.cc:8080/b6twFE/414151/57431
 57432 Global News Kingston,http://fortv.cc:8080/b6twFE/414151/572432
 57434 Global News Halifax,http://fortv.cc:8080/b6twFE/414151/57434
-57435,http://fortv.cc:8080/b6twFE/414151/57435
+57435 Global,http://fortv.cc:8080/b6twFE/414151/57435
 57436 Global News BC,http://fortv.cc:8080/b6twFE/414151/57436
 57437,http://fortv.cc:8080/b6twFE/414151/57437
 57438,http://fortv.cc:8080/b6twFE/414151/57438
-57441,http://fortv.cc:8080/b6twFE/414151/57441
-57442,http://fortv.cc:8080/b6twFE/414151/57442
+57441 HLN,http://fortv.cc:8080/b6twFE/414151/57441
+57442 ID,http://fortv.cc:8080/b6twFE/414151/57442
 57444 LMN,http://fortv.cc:8080/b6twFE/414151/57444
-57446,http://fortv.cc:8080/b6twFE/414151/57446
+57446 MTV,http://fortv.cc:8080/b6twFE/414151/57446
 57447,http://fortv.cc:8080/b6twFE/414151/57447
 57463 SN,http://fortv.cc:8080/b6twFE/414151/57463
 57464 CTV Sci-Fi,http://fortv.cc:8080/b6twFE/414151/57464
-57467 TSN,http://fortv.cc:8080/b6twFE/414151/57467
+57467 TSN 5,http://fortv.cc:8080/b6twFE/414151/57467
 57468 Vision,http://fortv.cc:8080/b6twFE/414151/57468
 
 
