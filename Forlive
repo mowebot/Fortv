@@ -45,12 +45,12 @@ TSN 1cc,http://cord-cutter.net:8080/live/Ss5DKE/232455/47440.ts
 57304 CBC News Network,http://fortv.cc:8080/b6twFE/414151/57304
 57305 CBC News,http://fortv.cc:8080/b6twFE/414151/57305
 57306 CBC News Toronto,http://fortv.cc:8080/b6twFE/414151/57306
-57309,http://fortv.cc:8080/b6twFE/414151/57309
-57310,http://fortv.cc:8080/b6twFE/414151/57310
+57309 Crave 1,http://fortv.cc:8080/b6twFE/414151/57309
+57310 Crave 2,http://fortv.cc:8080/b6twFE/414151/57310
 57311,http://fortv.cc:8080/b6twFE/414151/57311
 57316 CTV2,http://fortv.cc:8080/b6twFE/414151/57316
 57322,http://fortv.cc:8080/b6twFE/414151/57322
-57325,http://fortv.cc:8080/b6twFE/414151/57325
+57325 RDS,http://fortv.cc:8080/b6twFE/414151/57325
 57336 ICI TELE,http://fortv.cc:8080/b6twFE/414151/57336
 57347 Discovery Family,http://fortv.cc:8080/b6twFE/414151/57347
 57349 Disney Jr,http://fortv.cc:8080/b6twFE/414151/57349
@@ -78,7 +78,7 @@ TSN 1cc,http://cord-cutter.net:8080/live/Ss5DKE/232455/47440.ts
 57385 CBC,http://fortv.cc:8080/b6twFE/414151/57385
 57387 CBC,http://fortv.cc:8080/b6twFE/414151/57387
 57391 CBC,http://fortv.cc:8080/b6twFE/414151/57391
-57393,http://fortv.cc:8080/b6twFE/414151/57393
+57393 ChCh,http://fortv.cc:8080/b6twFE/414151/57393
 57394 CityTV Toronto,http://fortv.cc:8080/b6twFE/414151/57394
 57395 CityTV unk,http://fortv.cc:8080/b6twFE/414151/57395
 57398 CNN,http://fortv.cc:8080/b6twFE/414151/57398
